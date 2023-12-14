@@ -1,5 +1,5 @@
 Information relevant for assignment submission:
-The script necessary for the assignment can be found in project_name/models/
+The script necessary for the assignment can be found in gender_age_classification/models/
 
 
 Notes for the team:
