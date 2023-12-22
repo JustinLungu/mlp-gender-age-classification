@@ -1,3 +1,8 @@
+Information relevant for assignment submission:
+The script necessary for the assignment can be found in project_name/models/
+
+
+Notes for the team:
 - model - see assignment 1 for architecture (half tinyVGG) - train + val
     - for the baseline, input is smaller than final
     - hard parameter sharing
